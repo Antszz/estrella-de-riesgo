@@ -25,10 +25,10 @@ Trabajo final del curso de Visualizacion de datos (UCSP).
 
 ```
 docker build -t estrella-de-riesgo .
-docker run -p 8050:8050 estrella-de-riesgo
+docker run -p 7860:7860 estrella-de-riesgo
 ```
 
-Luego abrir http://localhost:8050
+Luego abrir http://localhost:7860
 
 ## Ejecutar sin Docker
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Abrir http://localhost:8050
+Abrir http://localhost:7860
 
 ## Uso
 
