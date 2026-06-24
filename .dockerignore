@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.git/
+figuras/
+trabajo_final.ipynb
+README.md
